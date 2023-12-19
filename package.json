@@ -1,0 +1,22 @@
+{
+  "name": "lingo-labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamh85/Lingo-Labs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamh85/Lingo-Labs/issues"
+  },
+  "homepage": "https://github.com/lamh85/Lingo-Labs#readme",
+  "dependencies": {
+    "levenshtein": "^1.0.5"
+  }
+}
